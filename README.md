@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋  Меня зовут Екатерина
-
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <!--
 **kartinkak76-commits/kartinkak76-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
