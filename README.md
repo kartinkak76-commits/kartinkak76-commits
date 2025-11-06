@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋  <a href="https://daniilshat.ru/" target="_blank">Меня зовут Екатерина</a>
+<h1 align="center">Привет 👋  Меня зовут Екатерина
 
 <!--
 **kartinkak76-commits/kartinkak76-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
