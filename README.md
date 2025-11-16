@@ -12,8 +12,14 @@
 
 🛠 Инструменты
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </p>
+
+🎨 Frontend технологии
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 📊 Статистика GitHub
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kartinkak76&show_icons=true&theme=radical&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartinkak76&layout=compact&theme=radical&hide_border=true" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartinkak76&theme=radical&hide_border=true" /> </p>
+
 🎯 На чём я сосредоточен сейчас
 
 🌱 Изучаю Python
